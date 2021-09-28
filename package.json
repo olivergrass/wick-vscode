@@ -1,0 +1,20 @@
+{
+  "name": "wick",
+  "displayName": "Wick",
+  "description": "Official Wick color theme",
+  "version": "0.0.1",
+  "icon": "./wickicon.jpg",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wick",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wick-color-theme.json"
+      }
+    ]
+  }
+}
