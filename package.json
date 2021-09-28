@@ -3,7 +3,7 @@
   "displayName": "Wick",
   "description": "Official Wick color theme",
   "version": "0.0.1",
-  "icon": "./wickicon.jpg",
+  "icon": "wickicon.jpg",
   "engines": {
     "vscode": "^1.60.0"
   },
