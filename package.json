@@ -3,7 +3,12 @@
   "displayName": "Wick",
   "description": "Official Wick color theme",
   "version": "0.0.1",
-  "icon": "wickicon.jpg",
+  "publisher": "Grass",
+  "icon": "wickicon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olivergrass/wick-vscode.git"
+  },
   "engines": {
     "vscode": "^1.60.0"
   },
