@@ -2,7 +2,7 @@
   "name": "wick",
   "displayName": "Wick",
   "description": "Official Wick color theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "wick",
   "icon": "wickvoxel.png",
   "repository": {
@@ -12,7 +12,9 @@
   "engines": {
     "vscode": "^1.60.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
